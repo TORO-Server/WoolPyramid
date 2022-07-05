@@ -1,0 +1,2 @@
+# Minecraft_WoolPyramid_plugin
+羊毛をピラミッドのように設置するspigotプラグイン
