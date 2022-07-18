@@ -6,3 +6,5 @@ api-version: 1.16
 commands:
   /unko:
     description: "複数の茶色の羊毛を設置する"
+  /unco:
+    description: "複数の茶色の羊毛を設置する"

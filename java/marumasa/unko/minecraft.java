@@ -7,6 +7,7 @@ public final class minecraft extends JavaPlugin {
     @Override
     public void onEnable() {
         getCommand("/unko").setExecutor(new command());
+        getCommand("/unco").setExecutor(new command());
     }
 
     @Override
