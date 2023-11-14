@@ -1,2 +1,15 @@
-# Minecraft_WoolPyramid_plugin
-羊毛をピラミッドのように設置するspigotプラグイン
+# WoolPyramid
+
+~~~
+//unco [ピラミッドの大きさ]
+~~~
+
+または
+
+~~~
+//unko [ピラミッドの大きさ]
+~~~
+
+というコマンドで 茶色の羊毛をピラミッドのように設置できるようにするspigotプラグイン
+
+SpigotMC 1.16 以上で動作します。
